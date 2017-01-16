@@ -34,3 +34,5 @@ I would continue adding papers to this roadmap.
 **[3]** Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "**Reducing the dimensionality of data with neural networks**." Science 313.5786 (2006): 504-507. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) **(Milestone, Show the promise of deep learning)** :star::star::star:
 
 You will find many papers that are quite new but really worth reading.I would continue adding papers to this roadmap.
+
+Continuning...
