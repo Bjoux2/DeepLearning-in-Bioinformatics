@@ -181,9 +181,9 @@ I would continue adding papers to this roadmap.
 **[63]** Hariharan, Bharath, and Ross Girshick. "**Low-shot visual object recognition**." arXiv preprint arXiv:1606.02819 (2016). [[pdf]](http://arxiv.org/pdf/1606.02819) **(A step to large data)** :star::star::star::star:
 
 
-# 3 Applications
+# 3 Applications in other files
 
-## 3.1 NLP(Natural Language Processing)
+## 3.1 NLP(Natural Language Processing) --> similar to biological sequence data  
 
 **[1]** Antoine Bordes, et al. "**Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**." AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) :star::star::star::star:
 
