@@ -183,7 +183,7 @@ I would continue adding papers to this roadmap.
 
 # 3 Applications in other files
 
-## 3.1 NLP(Natural Language Processing) --> similar to biological sequence data  
+## 3.1 NLP(Natural Language Processing) --> good for biological sequence data provessing 
 
 **[1]** Antoine Bordes, et al. "**Joint Learning of Words and Meaning Representations for Open-Text Semantic Parsing**." AISTATS(2012) [[pdf]](https://www.hds.utc.fr/~bordesan/dokuwiki/lib/exe/fetch.php?id=en%3Apubli&cache=cache&media=en:bordes12aistats.pdf) :star::star::star::star:
 
