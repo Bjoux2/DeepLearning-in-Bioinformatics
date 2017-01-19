@@ -6,10 +6,14 @@
 >This project is a imitation of Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 Contents:
--Deep Learning in bioinformatics
--Deep Learning History and Basics
--Deep Learning Methods
--Deep Learning in AI fields
+
+- 0 Deep Learning in bioinformatics
+
+- 1 Deep Learning History and Basics
+
+- 2 Deep Learning Methods
+
+- 3 Deep Learning in AI fields
 
 You will find many papers that are quite new but really worth reading.
 
@@ -17,6 +21,17 @@ I would continue adding papers to this roadmap.
 
 
 ---------------------------------------
+# 0 Deep learning in bioinformatics
+
+## 0.0 DNA/RNA related
+
+## 0.1 Protein related
+
+## 0.2 molecule related
+
+## 0.3
+
+
 # 1 Deep Learning History and Basics
 
 ## 1.0 Book
