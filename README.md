@@ -23,14 +23,13 @@ I would continue adding papers to this roadmap.
 ---------------------------------------
 # 0 Deep learning in bioinformatics
 
-## 0.0 DNA/RNA related
+## 0.0 Genomics
 
-## 0.1 Protein related
+## 0.1 Proteomics
 
-## 0.2 molecule related
+## 0.2 metabonomics
 
-## 0.3
-
+## 0.3 molecule related
 
 # 1 Deep Learning History and Basics
 
