@@ -5,12 +5,12 @@
 
 >This project is a imitation of Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
-The roadmap is constructed in accordance with the following four guidelines:
+Contents:
+-Deep Learning in bioinformatics
+-Deep Learning History and Basics
+-Deep Learning Methods
+-Deep Learning in AI fields
 
-- From outline to detail
-- From old to state-of-the-art
-- from generic to specific areas
-- focus on state-of-the-art
 You will find many papers that are quite new but really worth reading.
 
 I would continue adding papers to this roadmap.
@@ -59,7 +59,7 @@ I would continue adding papers to this roadmap.
 
 >After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
-#2 Deep Learning Method
+#2 Deep Learning Methods
 
 ## 2.1 Model
 
