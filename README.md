@@ -212,7 +212,7 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 # 3 Applications in **AI** fields
 
-## 3.1 NLP(Natural Language Processing) --> good for biological sequence data provessing 
+## 3.1 NLP(Natural Language Processing) --> good for biological sequence data processing 
 
 **[1]** Mikolov, et al. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) **(word2vec)** :star::star::star:
 
