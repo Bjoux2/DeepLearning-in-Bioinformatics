@@ -28,25 +28,15 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 
 Continuing...
+## July 2017
 
+## June 2017
 
-## 0.0 Genomics
-
-
-
-## 0.1 Proteomics
-
-## 0.2 metabonomics
-
-## 0.3 molecule related
-
-## 0.4 cancer related 
+## Before June 2017 (only a few widely influential papers were selected)
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 **[0]** A Esteva, B Kuprel, RA Novoa, J Ko, SM Swetter. "**Dermatologist-level classification of skin cancer with deep neural networks.**" Nature. (FEB 2 2017). [[pdf]](http://www.nature.com/articles/nature21056.epdf?author_access_token=8oxIcYWf5UNrNpHsUHd2StRgN0jAjWel9jnR3ZoTv0NXpMHRAJy8Qn10ys2O4tuPakXos4UhQAFZ750CsBNMMsISFHIKinKDMKjShCpHIlYPYUHhNzkn6pSnOCt0Ftf6) **(ps.)** :star::star::star::star::star:
-
-## 0.5 Review
 
 **[0]** Seonwoo Min, Byunghan Lee and Sungroh Yoon. "**Deep learning in bioinformatics.**" Briefings in bioinformatics. (16 June 2016). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/PAP/10.1093_bib_bbw068/2/bbw068.pdf?Expires=1487939176&Signature=cdRrhOL1u5wMIwd9dr3Gq36oVIzioujdG9QZfKnRsBqvGUH~jmutJoaJyFOMRLtXFQl-UIYCC39agxfBdrdUIAF1ljghkMTWPJhuBPKhX2dRsDo39zTcpb~O~w1irZ7QnFzsVtraFmXCgzM3veXEqk8B1E8tda-ZG6v~JYkr2oh7LtUcEAnN2h7epLyDxXY4PsjaSnY7NX5eY~K1~3UxAoo8zF3R76jBoQTfRdY0zJK62sgvrl~cmZzppR4ZSopc~5y4bi-aGSPFm~21h30xq~zGjyzT3SyQyXLgB9keTU7q173iYML~YrhgyYcDntsu3meIUvALrnEntZyO-RYzuQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(good review.)** :star::star::star::star::star:
 
