@@ -24,7 +24,7 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 <br> 
 
 ---------------------------------------
-## 0 Deep learning in bioinformatics
+## 0. Deep learning in bioinformatics
 
 
 Continuing...
@@ -47,7 +47,7 @@ Continuing...
 
 <br>
 
-## 1 Deep Learning History and Basics
+## 1. Deep Learning History and Basics
 
 ### 1.0 Book
 
@@ -91,7 +91,7 @@ Continuing...
 
 <br>
 
-## 2 Deep Learning Methods
+## 2. Deep Learning Methods
 
 ### 2.1 Model
 
@@ -214,7 +214,7 @@ Continuing...
 
 <br>
 
-## 3 Applications in **AI** fields
+## 3. Applications in **AI** fields
 
 ### 3.1 NLP(Natural Language Processing) --> good for biological sequence data processing 
 
