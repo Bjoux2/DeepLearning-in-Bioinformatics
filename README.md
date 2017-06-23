@@ -21,23 +21,23 @@ I would continue adding papers to this roadmap.
 
 Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, JPR, Distill Pub, CACM, JACM, JMLR, and NIPS.
 
- 
+<br> 
 
 ---------------------------------------
-# 0 Deep learning in bioinformatics
+## 0 Deep learning in bioinformatics
 
 
 Continuing...
-## July 2017
+### July 2017
 
-## June 2017
+### June 2017
 
 **[0]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. [[pdf]](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00028) **(ps.)** :star::star:
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 
-## Before June 2017 (only a few widely influential papers were selected)
+### Before June 2017 (only a few widely influential papers were selected)
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
@@ -45,23 +45,25 @@ Continuing...
 
 **[0]** Seonwoo Min, Byunghan Lee and Sungroh Yoon. "**Deep learning in bioinformatics.**" Briefings in bioinformatics. (16 June 2016). [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bib/PAP/10.1093_bib_bbw068/2/bbw068.pdf?Expires=1487939176&Signature=cdRrhOL1u5wMIwd9dr3Gq36oVIzioujdG9QZfKnRsBqvGUH~jmutJoaJyFOMRLtXFQl-UIYCC39agxfBdrdUIAF1ljghkMTWPJhuBPKhX2dRsDo39zTcpb~O~w1irZ7QnFzsVtraFmXCgzM3veXEqk8B1E8tda-ZG6v~JYkr2oh7LtUcEAnN2h7epLyDxXY4PsjaSnY7NX5eY~K1~3UxAoo8zF3R76jBoQTfRdY0zJK62sgvrl~cmZzppR4ZSopc~5y4bi-aGSPFm~21h30xq~zGjyzT3SyQyXLgB9keTU7q173iYML~YrhgyYcDntsu3meIUvALrnEntZyO-RYzuQ__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(good review.)** :star::star::star::star::star:
 
-# 1 Deep Learning History and Basics
+<br>
 
-## 1.0 Book
+## 1 Deep Learning History and Basics
+
+### 1.0 Book
 
 **[0]** Bengio, Yoshua, Ian J. Goodfellow, and Aaron Courville. "**Deep learning**." An MIT Press book. (2015). [[pdf]](https://github.com/HFTrader/DeepLearningBook/raw/master/DeepLearningBook.pdf) **(Deep Learning Bible, you can read this book while reading following papers.)** :star::star::star::star::star:
 
-## 1.1 Survey
+### 1.1 Survey
 
 **[1]** LeCun, Yann, Yoshua Bengio, and Geoffrey Hinton. "**Deep learning**." Nature 521.7553 (2015): 436-444. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf) **(Three Giants' Survey)** :star::star::star::star::star:
 
-## 1.2 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)
+### 1.2 Deep Belief Network(DBN)(Milestone of Deep Learning Eve)
 
 **[2]** Hinton, Geoffrey E., Simon Osindero, and Yee-Whye Teh. "**A fast learning algorithm for deep belief nets**." Neural computation 18.7 (2006): 1527-1554. [[pdf]](http://www.cs.toronto.edu/~hinton/absps/ncfast.pdf)**(Deep Learning Eve)** :star::star::star:
 
 **[3]** Hinton, Geoffrey E., and Ruslan R. Salakhutdinov. "**Reducing the dimensionality of data with neural networks**." Science 313.5786 (2006): 504-507. [[pdf]](http://www.cs.toronto.edu/~hinton/science.pdf) **(Milestone, Show the promise of deep learning)** :star::star::star:
 
-## 1.3 ImageNet Evolution（Deep Learning broke out from here）
+### 1.3 ImageNet Evolution（Deep Learning broke out from here）
 
 **[4]** Krizhevsky, Alex, Ilya Sutskever, and Geoffrey E. Hinton. "**Imagenet classification with deep convolutional neural networks**." Advances in neural information processing systems. 2012. [[pdf]](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf) **(AlexNet, Deep Learning Breakthrough)** :star::star::star::star::star:
 
@@ -71,7 +73,7 @@ Continuing...
 
 **[7]** He, Kaiming, et al. "**Deep residual learning for image recognition**." arXiv preprint arXiv:1512.03385 (2015). [[pdf]](https://arxiv.org/pdf/1512.03385.pdf) **(ResNet,Very very deep networks, CVPR best paper)**
 
-## 1.4 Speech Recognition Evolution
+### 1.4 Speech Recognition Evolution
 
 **[8]** Hinton, Geoffrey, et al. "**Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups**." IEEE Signal Processing Magazine 29.6 (2012): 82-97. [[pdf]](http://cs224d.stanford.edu/papers/maas_paper.pdf) **(Breakthrough in speech recognition)**:star::star::star::star:
 
@@ -87,9 +89,11 @@ Continuing...
 
 >After reading above papers, you will have a basic understanding of the Deep Learning history, the basic architectures of Deep Learning model(including CNN, RNN, LSTM) and how deep learning can be applied to image and speech recognition issues. The following papers will take you in-depth understanding of the Deep Learning method, Deep Learning in different areas of application and the frontiers. I suggest that you can choose the following papers based on your interests and research direction.
 
-#2 Deep Learning Methods
+<br>
 
-## 2.1 Model
+## 2 Deep Learning Methods
+
+### 2.1 Model
 
 **[14]** Hinton, Geoffrey E., et al. "**Improving neural networks by preventing co-adaptation of feature detectors**." arXiv preprint arXiv:1207.0580 (2012). [[pdf]](https://arxiv.org/pdf/1207.0580.pdf) **(Dropout)** :star::star::star:
 
@@ -107,7 +111,7 @@ Continuing...
 
 **[21]** Wei, Tao, et al. "Network Morphism." arXiv preprint arXiv:1603.01670 (2016). [[pdf]](https://arxiv.org/abs/1603.01670) **(Modify previously trained network to reduce training epochs)** :star::star::star:
 
-## 2.2 Optimization
+### 2.2 Optimization
 
 **[22]** Sutskever, Ilya, et al. "**On the importance of initialization and momentum in deep learning**." ICML (3) 28 (2013): 1139-1147. [[pdf]](http://www.jmlr.org/proceedings/papers/v28/sutskever13.pdf) **(Momentum optimizer)** :star::star:
 
@@ -119,7 +123,7 @@ Continuing...
 
 **[26]** Iandola, Forrest N., et al. "**SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 1MB model size**." arXiv preprint arXiv:1602.07360 (2016). [[pdf]](http://arxiv.org/pdf/1602.07360) **(Also a new direction to optimize NN,DeePhi Tech Startup)** :star::star::star::star:
 
-## 2.3 Unsupervised Learning / Deep Generative Model
+### 2.3 Unsupervised Learning / Deep Generative Model
 
 **[27]** Le, Quoc V. "**Building high-level features using large scale unsupervised learning**." 2013 IEEE international conference on acoustics, speech and signal processing. IEEE, 2013. [[pdf]](http://arxiv.org/pdf/1112.6209.pdf&embed) **(Milestone, Andrew Ng, Google Brain Project, Cat)** :star::star::star::star:
 
@@ -136,7 +140,7 @@ Continuing...
 
 **[33]** Oord, Aaron van den, et al. "Conditional image generation with PixelCNN decoders." arXiv preprint arXiv:1606.05328 (2016). [[pdf]](https://arxiv.org/pdf/1606.05328) **(PixelCNN)** :star::star::star::star:
 
-## 2.4 RNN / Sequence-to-Sequence Model
+### 2.4 RNN / Sequence-to-Sequence Model
 
 **[34]** Graves, Alex. "**Generating sequences with recurrent neural networks**." arXiv preprint arXiv:1308.0850 (2013). [[pdf]](http://arxiv.org/pdf/1308.0850) **(LSTM, very nice generating result, show the power of RNN)** :star::star::star::star:
 
@@ -148,7 +152,7 @@ Continuing...
 
 **[38]** Vinyals, Oriol, and Quoc Le. "**A neural conversational model**." arXiv preprint arXiv:1506.05869 (2015). [[pdf]](http://arxiv.org/pdf/1506.05869.pdf%20(http://arxiv.org/pdf/1506.05869.pdf)) **(Seq-to-Seq on Chatbot)** :star::star::star:
 
-## 2.5 Neural Turing Machine
+### 2.5 Neural Turing Machine
 
 **[39]** Graves, Alex, Greg Wayne, and Ivo Danihelka. "**Neural turing machines**." arXiv preprint arXiv:1410.5401 (2014). [[pdf]](http://arxiv.org/pdf/1410.5401.pdf) **(Basic Prototype of Future Computer)** :star::star::star::star::star:
 
@@ -163,7 +167,7 @@ Continuing...
 
 **[44]** Graves, Alex, et al. "**Hybrid computing using a neural network with dynamic external memory**." Nature (2016). [[pdf]](https://www.dropbox.com/s/0a40xi702grx3dq/2016-graves.pdf) **(Milestone,combine above papers' ideas)** :star::star::star::star::star:
 
-## 2.6 Deep Reinforcement Learning
+### 2.6 Deep Reinforcement Learning
 
 **[45]** Mnih, Volodymyr, et al. "**Playing atari with deep reinforcement learning**." arXiv preprint arXiv:1312.5602 (2013). [[pdf]](http://arxiv.org/pdf/1312.5602.pdf)) **(First Paper named deep reinforcement learning)** :star::star::star::star:
 
@@ -181,7 +185,7 @@ Continuing...
 
 **[52]** Silver, David, et al. "**Mastering the game of Go with deep neural networks and tree search**." Nature 529.7587 (2016): 484-489. [[pdf]](http://willamette.edu/~levenick/cs448/goNature.pdf) **(AlphaGo)** :star::star::star::star::star:
 
-## 2.7 Deep Transfer Learning / Lifelong Learning / especially for RL
+### 2.7 Deep Transfer Learning / Lifelong Learning / especially for RL
 
 **[53]** Bengio, Yoshua. "**Deep Learning of Representations for Unsupervised and Transfer Learning**." ICML Unsupervised and Transfer Learning 27 (2012): 17-36. [[pdf]](http://www.jmlr.org/proceedings/papers/v27/bengio12a/bengio12a.pdf) **(A Tutorial)** :star::star::star:
 
@@ -196,7 +200,7 @@ Continuing...
 **[58]** Rusu, Andrei A., et al. "**Progressive neural networks**." arXiv preprint arXiv:1606.04671 (2016). [[pdf]](https://arxiv.org/pdf/1606.04671) **(Outstanding Work, A novel idea)** :star::star::star::star::star:
 
 
-## 2.8 One Shot Deep Learning
+### 2.8 One Shot Deep Learning
 
 **[59]** Lake, Brenden M., Ruslan Salakhutdinov, and Joshua B. Tenenbaum. "**Human-level concept learning through probabilistic program induction**." Science 350.6266 (2015): 1332-1338. [[pdf]](http://clm.utexas.edu/compjclub/wp-content/uploads/2016/02/lake2015.pdf) **(No Deep Learning,but worth reading)** :star::star::star::star::star:
 
@@ -208,10 +212,11 @@ Continuing...
 
 **[63]** Hariharan, Bharath, and Ross Girshick. "**Low-shot visual object recognition**." arXiv preprint arXiv:1606.02819 (2016). [[pdf]](http://arxiv.org/pdf/1606.02819) **(A step to large data)** :star::star::star::star:
 
+<br>
 
-# 3 Applications in **AI** fields
+## 3 Applications in **AI** fields
 
-## 3.1 NLP(Natural Language Processing) --> good for biological sequence data processing 
+### 3.1 NLP(Natural Language Processing) --> good for biological sequence data processing 
 
 **[1]** Mikolov, et al. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) **(word2vec)** :star::star::star:
 
@@ -221,42 +226,42 @@ Continuing...
 
 **[4]** Alexis Conneau, et al. "**Very Deep Convolutional Networks for Natural Language Processing**." arXiv preprint arXiv:1606.01781(2016) [[pdf]](https://arxiv.org/abs/1606.01781) **(state-of-the-art in text classification)** :star::star::star:
 
-## 3.2 Object Detection
+### 3.2 Object Detection
 
 **[1]** Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) **(RCNN)** :star::star::star::star::star:
 
 **[2]** Redmon, Joseph, et al. "**You only look once: Unified, real-time object detection**." arXiv preprint arXiv:1506.02640 (2015). [[pdf]](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf) **(YOLO,Oustanding Work, really practical)** :star::star::star::star::star:
 
-## 3.3 Visual Tracking
+### 3.3 Visual Tracking
 
 **[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
 
 **[2]** Bertinetto, Luca, et al. "**Fully-Convolutional Siamese Networks for Object Tracking**." arXiv preprint arXiv:1606.09549 (2016). [[pdf]](https://arxiv.org/pdf/1606.09549) **(SiameseFC,New state-of-the-art for real-time object tracking)** :star::star::star::star:
 
-## 3.4 Image Caption
+### 3.4 Image Caption
 
 **[1]** Karpathy, Andrej, and Li Fei-Fei. "**Deep visual-semantic alignments for generating image descriptions**". In arXiv preprint arXiv:1412.2306, 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf):star::star::star::star::star:
 
 **[2]** Xu, Kelvin, et al. "**Show, attend and tell: Neural image caption generation with visual attention**". In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf):star::star::star::star::star:
 
-## 3.5 Machine Translation
+### 3.5 Machine Translation
 
 **[1]** Lee, et al. "**Fully Character-Level Neural Machine Translation without Explicit Segmentation**". In arXiv preprint arXiv:1610.03017, 2016. [[pdf]](https://arxiv.org/pdf/1610.03017.pdf):star::star::star::star::star:
 
 **[2]** Wu, Schuster, Chen, Le, et al. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". In arXiv preprint arXiv:1609.08144v2, 2016. [[pdf]](https://arxiv.org/pdf/1609.08144v2.pdf) **(Milestone)** :star::star::star::star:
 
-## 3.6 Robotics
+### 3.6 Robotics
 
 **[1]** Levine, Sergey, et al. "**End-to-end training of deep visuomotor policies**." Journal of Machine Learning Research 17.39 (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) :star::star::star::star::star:
 
-## 3.7 Art
+### 3.7 Art
 
 **[1]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(Deep Dream)**
 :star::star::star::star:
 
 **[2]** Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [[pdf]](http://arxiv.org/pdf/1508.06576) **(Outstanding Work, most successful method currently)** :star::star::star::star::star:
 
-## 3.8 Object Segmentation
+### 3.8 Object Segmentation
 
 **[1]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) :star::star::star::star::star:
 
