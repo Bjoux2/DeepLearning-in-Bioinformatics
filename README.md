@@ -28,16 +28,16 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 
 Continuing...
-### July 2017
+### ^July 2017
 
-### June 2017
+### ^June 2017
 
 **[0]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. [[pdf]](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00028) **(ps.)** :star::star:
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
 
-### Before June 2017 (only a few widely influential papers were selected)
+### ^Before June 2017 (only a few widely influential papers were selected)
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
 
