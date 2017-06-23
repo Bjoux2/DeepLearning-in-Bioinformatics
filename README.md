@@ -32,6 +32,11 @@ Continuing...
 
 ## June 2017
 
+**[0]** author. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. [[pdf]](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00028) **(ps.)** :star::star:
+
+**[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
+
+
 ## Before June 2017 (only a few widely influential papers were selected)
 
 **[0]** author. "**title.**" journal. (2015). [[pdf]](site) **(ps.)** :star::star::star::star::star:
