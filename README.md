@@ -30,6 +30,9 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 Continuing...
 ### ^July 2017
 
+**[0]** Bite Yang et al. "**BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone.**" Bioinformatics. [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/33/13/10.1093_bioinformatics_btx105/1/btx105.pdf?Expires=1499675891&Signature=axgtSVzGG21JA5elLfDBgCUeNztceRKbh7ns-KGLbjpplh0ZXn36C6W38V6N1H5~cDBhzwJHfKl0F5EkzQX6nJ0mdZU2BljrjPTFrJD2xTvmUFlqTbdVU6fZehcaXCsQgK8ncKB54Zg6J3o7aROx-EHT9xVa~ruOR3klzwLqQ2pvCn1M9ApXfBFUHGUqes5k0b9FrlgwPjAioVAXpnRdmFcQJ8PnXHgWXe9QujdOhSv-hbZlGtOMlAFXKRlWa9-l3W9qJynR4GxX~FzuOIokcPs5VQ7vCrVMQUSv~mj-n7VKFe34mPcIalDilzKLrlyCGGazpgUBm0UuukqaZJSbzw__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(ps.)** :star::star::star:
+
+
 ### ^June 2017
 
 **[0]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. [[pdf]](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00028) **(ps.)** :star::star:
