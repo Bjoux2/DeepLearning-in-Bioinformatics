@@ -40,9 +40,8 @@ Continuing...
 
 **[0]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. [[pdf]](http://pubs.acs.org/doi/pdf/10.1021/acs.jcim.7b00028) **(ps.)** :star::star:
 
-
-
 **[0]** Moritz Hess et al. "**Partitioned learning of deep Boltzmann machines for SNP data.**" Bioinformatics. [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_btx408/1/btx408.pdf?Expires=1499682688&Signature=CmJAEH-kdtanXVqtaGtnM~3G-fM~hCuaTGzT2~oJTNq63WBMA82AxWJK6MNP6H5OcjvsWBcjGkaCZnAG2paqlNE8J~dix0GHSNhoYuWE0gaG3u0nmiqkpZAaQfWn4UgZaWi7NlZSAZbL8Vg6rwrSBzoNNGhfjsinWFs2qSN6xLJ166PSPUPPw4TMdavB2ehbnsHpmXcePqbwhgQBqwbZHhM30TYPXUax9Sj8PX9rvd6ai4nfH5SrlWscSad3i6-07RXKDBsPH5HEh5K78ufYEyjjwJ~wTei9czKFoAoSIfYNSJwwdIuBlGnCU3Ygv6V~U4bBrrcALBB64bKmtyy4gg__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(ps.)** :star::star::star::star::star:
+
 **[0]** Travers Ching et al. "**Opportunities and obstacles for deep learning in biology and medicine.**" bioRxiv. [[pdf]](http://www.biorxiv.org/content/early/2017/05/28/142760.full.pdf) **(ps.)** :star::star::star:
 
 
