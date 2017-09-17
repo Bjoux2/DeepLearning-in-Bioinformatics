@@ -28,6 +28,10 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 
 Continuing...
+
+### ^August 2017
+**[0]** Baoji He, S. M. Mortuza, Yanting Wang, Hong-Bin Shen, Yang Zhang."**NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers.**" Bioinformatics. [[pdf]](https://watermark.silverchair.com/api/watermark?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAgowggIGBgkqhkiG9w0BBwagggH3MIIB8wIBADCCAewGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMh3sTkD_gsR0I1H3pAgEQgIIBvTbH3PrXzvTJxJbg3Yrg-rRpUgD3zVCBsYTktK-gCIe5FGyiO5b9UvCmr063mKFC4nZcUBYvuEbElyTfyXmLz_wWQLHF5KkWulS7t91TiLZwUFvTYTQQ-m126NJF1_Q3wSQXq8yvLErYOjKVlocogB0qifzqC3ov2RYc4r12xsu76HxQvTM35LldmDfddLElD-ZB042slxj51CKqq062oARuy-N1Y1QdG-Rlp6Ddy1U8g5j4z6HuWwaJ9puCDVJW4W7asJFnrf5gyX0cKVyRXUNctqKJN31H8WS2nC281L5EN0laJttRpTjdtipOQuZOfVZNutjG_fVWNrh3MmW00fX2CHB7ZvPBFvUIUFZgkvfT7LHrGeiwWbOMy_qPyA0S1l28xO5Kpva7klkv6HKLq_Y7uiqTTFFsXhBuoiSIVUvjYRMSkCUXXPcyvId2nzTjIDTyXCp5UGVTkm1SZuZ-pjefPNXFhkd8A8mZyVU86TdMvXUbHB-mlOkMS8jOW-aGbYcH2q1a8n8BBM_q6kOdPXbeeBMuaLrSWvEgEsMwTFEB-F-JgwxyOvrdbG5peIC6Zfjz8EqqKF1w-RBmCFg) **(ps.)** :star::star::star::star::star:
+
 ### ^July 2017
 
 **[0]** José Juan Almagro Armenteros et al. "**DeepLoc: Prediction of protein subcellular localization using deep learning.**" Bioinformatics. [[pdf]](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/PAP/10.1093_bioinformatics_btx431/1/btx431.pdf?Expires=1499682207&Signature=UTQas-QQ0GSPejUc0Km78Bq9-ibKZ-4fLJdSNMoSZR8G2LF~toSXWBCuxm1MFHYgDdfvI9p1baQOs2Ukv5JzfoOArozC~BrKQAEhKFWFvtcbWTAgFr2GQbClrfPGuheqZj7rDIl0dvWZC9imXbUMvgu4YIPvCGPp5UueXwoa0bBYbcB5GApIQYxV8wuA6HZYh~dS8r2Gh1L9s45B~OB0EZamLHRYD6NuDv-bOukwuCFw76ZtZo0gGX5UNrpGE-9CUD2XfKi3LsiTWF7ukmT~RP1XKdw0YqmCLQG9HiYILqpkOKgUBJ8jcsbUYLNnjaub-rIj8pYcYqNWAvPjNtHH6A__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q) **(ps.)** :star::star::star:
