@@ -21,6 +21,10 @@ I would continue adding papers to this roadmap.
 
 Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, JPR, Distill Pub, CACM, JACM, JMLR, and NIPS.
 
+The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and nature structural & molecular biology.
+
+In order to reduce the time spent on entry, we simplified the content of the entry, and you can search for articles based on the title.
+
 <br> 
 
 ---------------------------------------
