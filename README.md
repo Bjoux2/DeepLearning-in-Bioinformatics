@@ -23,7 +23,7 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and nature structural & molecular biology.
 
-In order to reduce the time spent on entry, we simplified the content of the entry, and you can search for articles based on the title.
+In order to reduce the time spent on entry, I simplified the content of the entry, and you can search for articles based on the title.
 
 <br> 
 
