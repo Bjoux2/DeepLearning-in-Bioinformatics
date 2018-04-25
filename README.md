@@ -15,9 +15,7 @@ Contents:
 
 - 3 Deep Learning in AI fields
 
-You will find many papers that are quite new but really worth reading.
 
-I would continue adding papers to this roadmap.
 
 Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, JPR, Distill Pub, CACM, JACM, JMLR, and NIPS.
 
@@ -25,6 +23,7 @@ The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and 
 
 In order to reduce the time spent on entry, I simplified the content of the entry, and you can search for articles based on the title.
 
+I would continue adding papers to this roadmap.
 <br> 
 
 ---------------------------------------
