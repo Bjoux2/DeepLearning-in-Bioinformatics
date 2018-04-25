@@ -241,56 +241,57 @@ Continuing...
 
 ## 3. Applications in **AI** fields
 
-### 3.1 NLP(Natural Language Processing) --> good for biological sequence data processing 
+### 3.1 NLP(Natural Language Processing) --> similar to biological sequence data processing 
 
-**[1]** Mikolov, et al. "**Distributed representations of words and phrases and their compositionality**." ANIPS(2013): 3111-3119 [[pdf]](http://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf) **(word2vec)** :star::star::star:
+**[1]** Mikolov. "**Distributed representations of words and phrases and their compositionality**." ANIPS, 2013. **(word2vec)** 
 
-**[2]** Sutskever, et al. "**“Sequence to sequence learning with neural networks**." ANIPS(2014) [[pdf]](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf) :star::star::star:
+**[2]** Sutskever. "**“Sequence to sequence learning with neural networks**." ANIPS, 2014.
 
-**[3]** Yoon Kim, et al. "**Character-Aware Neural Language Models**." NIPS(2015) arXiv preprint arXiv:1508.06615(2015) [[pdf]](https://arxiv.org/abs/1508.06615) :star::star::star::star:
+**[3]** Yoon Kim. "**Character-Aware Neural Language Models**." NIPS, 2015.
 
-**[4]** Alexis Conneau, et al. "**Very Deep Convolutional Networks for Natural Language Processing**." arXiv preprint arXiv:1606.01781(2016) [[pdf]](https://arxiv.org/abs/1606.01781) **(state-of-the-art in text classification)** :star::star::star:
+**[4]** Alexis Conneau. "**Very Deep Convolutional Networks for Natural Language Processing**." arXiv, 2016.
 
 ### 3.2 Object Detection
 
-**[1]** Girshick, Ross, et al. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." Proceedings of the IEEE conference on computer vision and pattern recognition. 2014. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Girshick_Rich_Feature_Hierarchies_2014_CVPR_paper.pdf) **(RCNN)** :star::star::star::star::star:
+**[1]** Girshick. "**Rich feature hierarchies for accurate object detection and semantic segmentation**." CVPR. 2014. :star::star::star::star::star:
 
-**[2]** Redmon, Joseph, et al. "**You only look once: Unified, real-time object detection**." arXiv preprint arXiv:1506.02640 (2015). [[pdf]](http://homes.cs.washington.edu/~ali/papers/YOLO.pdf) **(YOLO,Oustanding Work, really practical)** :star::star::star::star::star:
+**[2]** Redmon. "**You only look once: Unified, real-time object detection**." arXiv, 2015.
+
+**[3]** Gkioxari. "**Mask R-CNN**." arXiv, 2017.
 
 ### 3.3 Visual Tracking
 
-**[1]** Wang, Naiyan, and Dit-Yan Yeung. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. [[pdf]](http://papers.nips.cc/paper/5192-learning-a-deep-compact-image-representation-for-visual-tracking.pdf) **(First Paper to do visual tracking using Deep Learning,DLT Tracker)** :star::star::star:
+**[1]** Wang. "**Learning a deep compact image representation for visual tracking**." Advances in neural information processing systems. 2013. 
 
 **[2]** Bertinetto, Luca, et al. "**Fully-Convolutional Siamese Networks for Object Tracking**." arXiv preprint arXiv:1606.09549 (2016). [[pdf]](https://arxiv.org/pdf/1606.09549) **(SiameseFC,New state-of-the-art for real-time object tracking)** :star::star::star::star:
 
 ### 3.4 Image Caption
 
-**[1]** Karpathy, Andrej, and Li Fei-Fei. "**Deep visual-semantic alignments for generating image descriptions**". In arXiv preprint arXiv:1412.2306, 2014. [[pdf]](https://cs.stanford.edu/people/karpathy/cvpr2015.pdf):star::star::star::star::star:
+**[1]** Karpathy. "**Deep visual-semantic alignments for generating image descriptions**". arXiv, 2014.
 
-**[2]** Xu, Kelvin, et al. "**Show, attend and tell: Neural image caption generation with visual attention**". In arXiv preprint arXiv:1502.03044, 2015. [[pdf]](https://arxiv.org/pdf/1502.03044v3.pdf):star::star::star::star::star:
+**[2]** Xu. "**Show, attend and tell: Neural image caption generation with visual attention**". arXiv, 2015. 
 
 ### 3.5 Machine Translation
 
-**[1]** Lee, et al. "**Fully Character-Level Neural Machine Translation without Explicit Segmentation**". In arXiv preprint arXiv:1610.03017, 2016. [[pdf]](https://arxiv.org/pdf/1610.03017.pdf):star::star::star::star::star:
+**[1]** Lee. "**Fully Character-Level Neural Machine Translation without Explicit Segmentation**". arXiv, 2016.
 
-**[2]** Wu, Schuster, Chen, Le, et al. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". In arXiv preprint arXiv:1609.08144v2, 2016. [[pdf]](https://arxiv.org/pdf/1609.08144v2.pdf) **(Milestone)** :star::star::star::star:
+**[2]** Wu. "**Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation**". arXiv, 2016. 
 
 ### 3.6 Robotics
 
-**[1]** Levine, Sergey, et al. "**End-to-end training of deep visuomotor policies**." Journal of Machine Learning Research 17.39 (2016): 1-40. [[pdf]](http://www.jmlr.org/papers/volume17/15-522/15-522.pdf) :star::star::star::star::star:
+**[1]** Levine. "**End-to-end training of deep visuomotor policies**." JMLR, 2016.
 
 ### 3.7 Art
 
-**[1]** Mordvintsev, Alexander; Olah, Christopher; Tyka, Mike (2015). "**Inceptionism: Going Deeper into Neural Networks**". Google Research. [[html]](https://research.googleblog.com/2015/06/inceptionism-going-deeper-into-neural.html) **(Deep Dream)**
-:star::star::star::star:
+**[1]** Mordvintsev. "**Inceptionism: Going Deeper into Neural Networks**". Google Research, 2015.
 
-**[2]** Gatys, Leon A., Alexander S. Ecker, and Matthias Bethge. "**A neural algorithm of artistic style**." arXiv preprint arXiv:1508.06576 (2015). [[pdf]](http://arxiv.org/pdf/1508.06576) **(Outstanding Work, most successful method currently)** :star::star::star::star::star:
+**[2]** Gatys. "**A neural algorithm of artistic style**." arXiv 2015.
 
 ### 3.8 Object Segmentation
 
-**[1]** J. Long, E. Shelhamer, and T. Darrell, “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. [[pdf]](https://arxiv.org/pdf/1411.4038v2.pdf) :star::star::star::star::star:
+**[1]** J. Long. “**Fully convolutional networks for semantic segmentation**.” in CVPR, 2015. 
 
-**[2]** L.-C. Chen, G. Papandreou, I. Kokkinos, K. Murphy, and A. L. Yuille. "**Semantic image segmentation with deep convolutional nets and fully connected crfs**." In ICLR, 2015. [[pdf]](https://arxiv.org/pdf/1606.00915v1.pdf) :star::star::star::star::star:
+**[2]** L. C. Chen. "**Semantic image segmentation with deep convolutional nets and fully connected crfs**." In ICLR, 2015. 
 
 
 
