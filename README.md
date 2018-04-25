@@ -3,8 +3,6 @@
 
 >Here is a reading roadmap of papers applying Deep Learning in bioinformatics!
 
->This project is a imitation of Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
-
 Contents:
 
 - 0 Drug discovery
@@ -21,8 +19,6 @@ Those papers are mainly published in Nature, Nature Methods, Nature protocols, N
 
 The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and nature structural & molecular biology.
 
-In order to reduce the time spent on entry, I simplified the content of the entry, and you can search for articles based on the title.
-
 I would continue adding papers to this roadmap.
 
 <br> 
@@ -31,7 +27,28 @@ I would continue adding papers to this roadmap.
 ## 0. Drug discovery
 
 
+## 1. Biomacromolecular structure prediction
+
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+## 1. 
+
+
 Continuing...
+**[0]** authors. "**template.**" journal. (date). **(ps)** :star::star::star::star::star:
 
 ### ^September 2017
 
@@ -71,3 +88,5 @@ Continuing...
 **[1]** Seonwoo Min et al. "**Deep learning in bioinformatics.**" Briefings in bioinformatics. (16 June 2016). **(good review.)** :star::star::star::star::star:
 
 <br>
+
+
