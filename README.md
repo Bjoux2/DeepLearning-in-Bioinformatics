@@ -34,7 +34,10 @@ I would continue adding papers to this roadmap.
 
 **[0]** Jianzhu Ma. "**Using deep learning to model the hierarchical structure and function of a cell.**" Nature Methods. (2018-04). **(ps)** :star::star::star::star::star:
 
-## 1. 
+## 2. transcription factor-DNA binding
+
+**[0]** Abdullah M Khamis. "**DeFine: deep convolutional neural networks accurately quantify intensities of transcription factor-DNA binding and facilitate evaluation of functional non-coding variants.**" NAR. (02 April 2018). **(ps)** :star::star::star::star::star:
+
 
 ## 1. 
 
