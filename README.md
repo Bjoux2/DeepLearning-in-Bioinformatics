@@ -22,12 +22,12 @@ I would continue adding papers to this roadmap.
 
 **[0]** Jianzhu Ma. "**Using deep learning to model the hierarchical structure and function of a cell.**" Nature Methods. (2018-04). **(ps)** :star::star::star::star::star:
 
-## 3. transcription factor-DNA binding
+## 3. Transcription factor-DNA binding
 
 **[0]** Abdullah M Khamis. "**DeFine: deep convolutional neural networks accurately quantify intensities of transcription factor-DNA binding and facilitate evaluation of functional non-coding variants.**" NAR. (02 April 2018). **(ps)** :star::star::star::star::star:
 
 
-## 4. Protein Residue Contact
+## 4. Protein Residue Contacts
 
 **[0]** Jinbo Xu. "**ComplexContact: a web server for inter-protein contact prediction using deep learning.**" NAR. (22 May 2018). 
 
