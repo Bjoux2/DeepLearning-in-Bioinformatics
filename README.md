@@ -3,18 +3,6 @@
 
 >Here is a reading roadmap of papers applying Deep Learning in bioinformatics!
 
-Contents:
-
-- 0 Drug discovery
-
-- 1 Protein structure prediction
-
-- 2 Deep Learning Methods
-
-- 3 Deep Learning in AI fields
-
-
-
 Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, JPR, Distill Pub, CACM, JACM, JMLR, and NIPS.
 
 The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and nature structural & molecular biology.
