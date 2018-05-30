@@ -3,9 +3,9 @@
 
 >Here is a reading roadmap of papers applying Deep Learning in bioinformatics!
 
-Those papers are mainly published in Nature, Nature Methods, Nature protocols, NAR, Briefings in Bioinformatics, Bioinformatics, Drug Discovery Today, Genome Research, Genome Biology, PLoS computational biology, JCIM, JPR, Distill Pub, CACM, JACM, JMLR, and NIPS.
+Those papers are mainly published in _Nature_, _Nature Methods_, _Nature protocols_, _NAR_, _Briefings in Bioinformatics_, _Bioinformatics_, _Drug Discovery Today_, _Genome Research_, _Genome Biology_, _PLoS computational biology_, _JCIM_, _JPR_, _Distill Pub_, _CACM_, _JACM_, _JMLR_, and _NIPS_.
 
-The recently added journals are Nature Chemistry, Nature Reviews Chemistry, and nature structural & molecular biology.
+The recently added journals are _AC_ _Nature Chemistry_, _Nature Reviews Chemistry_, and _Nature structural & molecular biology_.
 
 I would continue adding papers to this roadmap.
 
