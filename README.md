@@ -36,8 +36,9 @@ I would continue adding papers to this roadmap.
 
 **[0]** Sungroh Yoon. "**lncRNAnet: Long Non-coding RNA Identification using Deep Learning.**" Bioinformatics. (29 May 2018). 
 
-Continuing...
-**[0]** authors. "**template.**" journal. (date). 
+[^_^]:
+    Continuing...
+    **[0]** authors. "**template.**" journal. (date). 
 
 ### ^September 2017
 
