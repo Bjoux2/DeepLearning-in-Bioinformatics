@@ -32,8 +32,12 @@ I would continue adding papers to this roadmap.
 **[0]** Jinbo Xu. "**ComplexContact: a web server for inter-protein contact prediction using deep learning.**" NAR. (22 May 2018). 
 
 
+## 5. lncRNAs related 
+
+**[0]** Sungroh Yoon. "**lncRNAnet: Long Non-coding RNA Identification using Deep Learning.**" Bioinformatics. (29 May 2018). 
+
 Continuing...
-**[0]** authors. "**template.**" journal. (date). **(ps)** :star::star::star::star::star:
+**[0]** authors. "**template.**" journal. (date). 
 
 ### ^September 2017
 
