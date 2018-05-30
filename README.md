@@ -38,6 +38,12 @@ I would continue adding papers to this roadmap.
 
 [^_^]:
     **[0]** authors. "**template.**" journal. (date). 
+    
+
+## 5. Gene expression related
+
+**[0]** Tianwei Yu. "**A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data.**" Bioinformatics. (29 May 2018). 
+
 
 ### ^September 2017
 
