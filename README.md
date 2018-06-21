@@ -5,7 +5,7 @@
 
 Those papers are mainly published in _Nature_, _Nature Methods_, _Nature protocols_, _NAR_, _Briefings in Bioinformatics_, _Bioinformatics_, _Drug Discovery Today_, _Genome Research_, _Genome Biology_, _PLoS computational biology_, _JCIM_, _JPR_, _Distill Pub_, _CACM_, _JACM_, _JMLR_, and _NIPS_.
 
-The recently added journals are _AC_ _Nature Chemistry_, _Nature Reviews Chemistry_, and _Nature structural & molecular biology_.
+The recently added journals are _AC_, _Nature Chemistry_, _Nature Reviews Chemistry_, and _Nature structural & molecular biology_.
 
 I would continue adding papers to this roadmap.
 
