@@ -16,7 +16,10 @@ I would continue adding papers to this roadmap.
 
 
 ## 1. Biomacromolecular structure prediction
+
 **[0]** Yaoqi Zhou. "**Accurate Prediction of Protein Contact Maps by Coupling Residual Two-Dimensional Bidirectional Long Short-Term Memory with Convolutional Neural Networks.**" Bioinformatics. (19 June 2018). 
+
+**[1]** Jinbo Xu. "**ComplexContact: a web server for inter-protein contact prediction using deep learning.**" NAR. (22 May 2018). 
 
 ## 2. Cell
 
@@ -27,12 +30,7 @@ I would continue adding papers to this roadmap.
 **[0]** Abdullah M Khamis. "**DeFine: deep convolutional neural networks accurately quantify intensities of transcription factor-DNA binding and facilitate evaluation of functional non-coding variants.**" NAR. (02 April 2018). **(ps)** :star::star::star::star::star:
 
 
-## 4. Protein Residue Contacts
-
-**[0]** Jinbo Xu. "**ComplexContact: a web server for inter-protein contact prediction using deep learning.**" NAR. (22 May 2018). 
-
-
-## 5. lncRNAs related 
+## 4. lncRNAs related 
 
 **[0]** Sungroh Yoon. "**lncRNAnet: Long Non-coding RNA Identification using Deep Learning.**" Bioinformatics. (29 May 2018). 
 
@@ -45,6 +43,8 @@ I would continue adding papers to this roadmap.
 ## 5. Gene expression related
 
 **[0]** Tianwei Yu. "**A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data.**" Bioinformatics. (29 May 2018). 
+
+**[0]** Wesley De Neve. "**SpliceRover: Interpretable Convolutional Neural: Networks for Improved Splice Site Prediction.**" Bioinformatics. (21 June 2018). 
 
 
 ### ^Before September 2017 (only a few widely influential papers were selected)
