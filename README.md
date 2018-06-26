@@ -16,7 +16,7 @@ I would continue adding papers to this roadmap.
 
 
 ## 1. Biomacromolecular structure prediction
-
+**[0]** Yaoqi Zhou. "**Accurate Prediction of Protein Contact Maps by Coupling Residual Two-Dimensional Bidirectional Long Short-Term Memory with Convolutional Neural Networks.**" Bioinformatics. (19 June 2018). 
 
 ## 2. Cell
 
@@ -36,7 +36,7 @@ I would continue adding papers to this roadmap.
 
 **[0]** Sungroh Yoon. "**lncRNAnet: Long Non-coding RNA Identification using Deep Learning.**" Bioinformatics. (29 May 2018). 
 
-**[0]** Huaiqiu Zhu. "**LncADeep: An ab initio lncRNA identification and functional annotation tool based on deep learning.**" Bioinformatics. (29 May 2018).
+**[1]** Huaiqiu Zhu. "**LncADeep: An ab initio lncRNA identification and functional annotation tool based on deep learning.**" Bioinformatics. (29 May 2018).
 
 [^_^]:
     **[0]** authors. "**template.**" journal. (date). 
@@ -47,41 +47,33 @@ I would continue adding papers to this roadmap.
 **[0]** Tianwei Yu. "**A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data.**" Bioinformatics. (29 May 2018). 
 
 
-### ^September 2017
+### ^Before September 2017 (only a few widely influential papers were selected)
 
 **[0]** LuZhang, JianjunTan, DanHan, HaoZhu. "**From machine learning to deep learning: progress in machine intelligence for rational drug discovery.**" Drug Discovery Today. 
 
-**[0]** Dapeng Xiong, Jianyang Zeng, and Haipeng Gong. "**A deep learning framework for improving long-range residue–residue contact prediction using a hierarchical strategy.**" Bioinformatics. 
+**[1]** Dapeng Xiong, Jianyang Zeng, and Haipeng Gong. "**A deep learning framework for improving long-range residue–residue contact prediction using a hierarchical strategy.**" Bioinformatics. 
 
-**[0]** Yeeleng S. Vang, Xiaohui Xie. "**HLA class I binding prediction via convolutional neural networks.**" Bioinformatics.
+**[2]** Yeeleng S. Vang, Xiaohui Xie. "**HLA class I binding prediction via convolutional neural networks.**" Bioinformatics.
 
-### ^August 2017
-**[0]** Baoji He, S. M. Mortuza, Yanting Wang, Hong-Bin Shen, Yang Zhang."**NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers.**" Bioinformatics. 
+**[3]** Baoji He, S. M. Mortuza, Yanting Wang, Hong-Bin Shen, Yang Zhang."**NeBcon: protein contact map prediction using neural network training coupled with naïve Bayes classifiers.**" Bioinformatics. 
 
-**[0]** Nansu Zong, Hyeoneui Kim, Victoria Ngo, Olivier Harismendy. "**Deep mining heterogeneous networks of biomedical linked data to predict novel drug–target associations.**" Bioinformatics. 
+**[4]** Nansu Zong, Hyeoneui Kim, Victoria Ngo, Olivier Harismendy. "**Deep mining heterogeneous networks of biomedical linked data to predict novel drug–target associations.**" Bioinformatics. 
 
-### ^July 2017
+**[5]** José Juan Almagro Armenteros et al. "**DeepLoc: Prediction of protein subcellular localization using deep learning.**" Bioinformatics. 
 
-**[0]** José Juan Almagro Armenteros et al. "**DeepLoc: Prediction of protein subcellular localization using deep learning.**" Bioinformatics. 
+**[6]** Bite Yang et al. "**BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone.**" Bioinformatics.
 
-**[0]** Bite Yang et al. "**BiRen: predicting enhancers with a deep-learning-based model using the DNA sequence alone.**" Bioinformatics.
+**[7]** William J. Godinez et al. "**A multi-scale convolutional neural network for phenotyping high-content cellular images.**" Bioinformatics. 
 
-**[0]** William J. Godinez et al. "**A multi-scale convolutional neural network for phenotyping high-content cellular images.**" Bioinformatics. 
+**[8]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. 
 
-### ^June 2017
+**[9]** Moritz Hess et al. "**Partitioned learning of deep Boltzmann machines for SNP data.**" Bioinformatics.
 
-**[0]** Xiuquan Du, Yanping Zhang et al. "**DeepPPI: Boosting Prediction of Protein–Protein Interactions with Deep Neural Networks.**" JCIM. 
+**[10]** Travers Ching et al. "**Opportunities and obstacles for deep learning in biology and medicine.**" bioRxiv.  
 
-**[0]** Moritz Hess et al. "**Partitioned learning of deep Boltzmann machines for SNP data.**" Bioinformatics.
-**[0]** Travers Ching et al. "**Opportunities and obstacles for deep learning in biology and medicine.**" bioRxiv.  
+**[11]** A Esteva et al. "**Dermatologist-level classification of skin cancer with deep neural networks.**" Nature. (FEB 2 2017). 
 
-
-### ^Before June 2017 (only a few widely influential papers were selected)
-
-
-**[0]** A Esteva et al. "**Dermatologist-level classification of skin cancer with deep neural networks.**" Nature. (FEB 2 2017). 
-
-**[1]** Seonwoo Min et al. "**Deep learning in bioinformatics.**" Briefings in bioinformatics. (16 June 2016). 
+**[12]** Seonwoo Min et al. "**Deep learning in bioinformatics.**" Briefings in bioinformatics. (16 June 2016). 
 
 <br>
 
