@@ -13,13 +13,16 @@ I would continue adding papers to this roadmap.
 
 ---------------------------------------
 ## 0. Drug discovery
-
+**[0]** Hongmei Lu. "**Deep-Learning-Based Drug–Target Interaction Prediction.**" JPR. (March 6, 2017)
 
 ## 1. Biomacromolecular structure prediction
 
 **[0]** Yaoqi Zhou. "**Accurate Prediction of Protein Contact Maps by Coupling Residual Two-Dimensional Bidirectional Long Short-Term Memory with Convolutional Neural Networks.**" Bioinformatics. (19 June 2018). 
 
 **[1]** Jinbo Xu. "**ComplexContact: a web server for inter-protein contact prediction using deep learning.**" NAR. (22 May 2018). 
+
+**[2]** Jinbo Xu. "**Protein threading using residue co-variation and deep learning.**" Bioinformatics. (1 July 2018). 
+
 
 ## 2. Cell
 
