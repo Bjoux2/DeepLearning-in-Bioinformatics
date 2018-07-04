@@ -12,6 +12,11 @@ I would continue adding papers to this roadmap.
 <br> 
 
 ---------------------------------------
+## -1. MS-based proteomics
+**[0]** Zhifei Zhang. "**pDeep: Predicting MS/MS Spectra of Peptides with Deep Learning.**" AC. (November 10, 2017). 
+
+**[0]** Ming Li. "**De novo peptide sequencing by deep learning.**" PNAS. (July 18, 2017). 
+
 ## 0. Drug discovery
 **[0]** Hongmei Lu. "**Deep-Learning-Based Drug–Target Interaction Prediction.**" JPR. (March 6, 2017)
 
