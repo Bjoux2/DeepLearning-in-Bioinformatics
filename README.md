@@ -22,6 +22,7 @@ I would continue adding papers to this roadmap.
 
 ## 0. Drug discovery
 **[0]** Hongmei Lu. "**Deep-Learning-Based Drug–Target Interaction Prediction.**" JPR. (March 6, 2017)
+**[0]** Jianyang Zeng. "**NeoDTI: Neural integration of neighbor information from a heterogeneous network for discovering new drug-target interactions.**" Bioinformatics. (02 July 2018)
 
 ## 1. Biomacromolecular structure prediction
 
