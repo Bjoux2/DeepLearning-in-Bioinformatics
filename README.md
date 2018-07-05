@@ -25,6 +25,8 @@ I would continue adding papers to this roadmap.
 
 **[1]** Jianyang Zeng. "**NeoDTI: Neural integration of neighbor information from a heterogeneous network for discovering new drug-target interactions.**" Bioinformatics. (02 July 2018)
 
+**[0]** Pierre Baldi. "**Deep Learning in Biomedical Data Science.**" Annual Review of Biomedical Data Science. (2018). 
+
 ## 1. Biomacromolecular structure prediction
 
 **[0]** Yaoqi Zhou. "**Accurate Prediction of Protein Contact Maps by Coupling Residual Two-Dimensional Bidirectional Long Short-Term Memory with Convolutional Neural Networks.**" Bioinformatics. (19 June 2018). 
