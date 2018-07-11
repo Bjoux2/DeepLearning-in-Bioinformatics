@@ -59,7 +59,9 @@ I would continue adding papers to this roadmap.
 
 **[0]** Tianwei Yu. "**A graph-embedded deep feedforward network for disease outcome classification and feature selection using gene expression data.**" Bioinformatics. (29 May 2018). 
 
-**[0]** Wesley De Neve. "**SpliceRover: Interpretable Convolutional Neural: Networks for Improved Splice Site Prediction.**" Bioinformatics. (21 June 2018). 
+**[1]** Wesley De Neve. "**SpliceRover: Interpretable Convolutional Neural: Networks for Improved Splice Site Prediction.**" Bioinformatics. (21 June 2018). 
+
+**[2]** David A Hendrix. "**A deep recurrent neural network discovers complex biological rules to decipher RNA protein-coding potential.**" NAR. (09 July 2018)
 
 
 ### ^Before September 2017 (only a few widely influential papers were selected)
