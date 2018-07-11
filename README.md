@@ -15,6 +15,8 @@ I would continue adding papers to this roadmap.
 ## -2. LCMS-based proteomics
 **[0]** Zhifei Zhang. "**pDeep: Predicting MS/MS Spectra of Peptides with Deep Learning.**" AC. (November 10, 2017). 
 
+**[0]** Naohiro Kobayashi. "**Noise peak filtering in multi-dimensional NMR spectra using convolutional neural networks.**" Bioinformatics. (09 July 2018). 
+
 **[1]** Ming Li. "**De novo peptide sequencing by deep learning.**" PNAS. (July 18, 2017). 
 
 ## -1. GCMS-based metabolomics
