@@ -20,7 +20,7 @@ I would continue adding papers to this roadmap.
 **[1]** Ming Li. "**De novo peptide sequencing by deep learning.**" PNAS. (July 18, 2017). 
 
 ## -1. GCMS-based metabolomics
-**[0]** Yang Hu. "**Convolutional neural networks for automated targeted analysis of raw gas chromatography–mass spectrometry data.**" IJCNN 2018. (2018). 
+**[0]** SKARYSZ, A. ... et al, . "**Convolutional neural networks for automated targeted analysis of raw gas chromatography–mass spectrometry data.**" IJCNN 2018. (2018). 
 
 ## 0. Drug discovery
 **[0]** Hongmei Lu. "**Deep-Learning-Based Drug–Target Interaction Prediction.**" JPR. (March 6, 2017)
